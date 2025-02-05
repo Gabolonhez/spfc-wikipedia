@@ -8,7 +8,7 @@
 
 Site de apresentação do São Paulo Futebol Clube.
 
-## ✔️ Tecnologias
+## 💻 Tecnologias
 
 - `HTML`
 - `CSS`
