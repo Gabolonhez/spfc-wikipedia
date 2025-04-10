@@ -6,7 +6,7 @@
 
 ## 📑 Descrição
 
-Site de apresentação do São Paulo Futebol Clube.
+Wikipedia de apresentação do São Paulo Futebol Clube.
 
 ## 💻 Tecnologias
 
